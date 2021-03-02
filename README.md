@@ -1,6 +1,6 @@
 Syed Jafri
 
-This web applicaiton is a clone of Amazon Website
+This web application is a clone of Amazon Website
 
 It contains login, home and checkout page. 
 
